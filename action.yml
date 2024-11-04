@@ -6,7 +6,7 @@ inputs:
   image:
     description: 'custom imagename for execute robot framework'
     required: true
-    default: 'katonic/robot-framework:latest'
+    default: 'ppodgorsek/robot-framework'
   image_version:
     description: 'custom tag verion image for execute robot framework'
     required: true
